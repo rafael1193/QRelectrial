@@ -1,4 +1,5 @@
-﻿/* This file is part of QRelectrial
+﻿/* 
+ * This file is part of QRelectrial
  * Copyright (C) 2013 Rafael Bailón-Ruiz
  * 
  * This program is free software: you can redistribute it and/or modify
